@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@chernikov-frontend/ajs": "^1.0.0"
+  }
+}
+
